@@ -1,0 +1,24 @@
+* {
+    font-family: Commissioner, serif;
+    font-size: 18px;
+    line-height: 1.5;
+    font-weight: bold;
+    scroll-behavior: smooth;
+    list-style-type: none;
+    text-decoration: none;
+    color: #334748;
+
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: Commissioner;
+    src: url("../font/Commissioner/Commissioner-VariableFont_wght.ttf");
+}
+
+
